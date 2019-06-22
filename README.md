@@ -17,7 +17,6 @@ Composer command ailases.
 Name | Version
 ------- | -------
 Ubuntu | >= 16.04
-PHP | >= 5.5
 
 ## Installation
 
