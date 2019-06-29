@@ -1,5 +1,5 @@
 Source: composer-aliases
-Section: shells
+Section: php
 Priority: optional
 Maintainer: Alexander Tarkhov <agtuks@gmail.com>
 Build-Depends: debhelper (>= 10)
