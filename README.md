@@ -9,8 +9,9 @@ Composer command ailases.
    1. [Ubuntu](#ubuntu)
 3. [Usage](#usage)
    1. [Commands](#commands)
-4. [Author](#author)
-5. [License](#license)
+4. [Removing](#removing)
+5. [Author](#author)
+6. [License](#license)
 
 ## Compatibility
 
@@ -42,6 +43,14 @@ Alias | Command
 `cr` | `composer require`
 `crd` | `composer require --dev`
 `cu` | `composer update`
+
+## Removing
+
+To completely remove the package run the command:
+
+```bash
+sudo apt remove --purge composer-aliases
+```
 
 ## Author
 
