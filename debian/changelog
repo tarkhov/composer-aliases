@@ -1,3 +1,9 @@
+composer-aliases (0.1.1-1) bionic; urgency=medium
+
+  * Second release
+
+ -- Alexander Tarkhov <agtuks@gmail.com>  Sun, 14 Jul 2019 12:33:33 +0300
+
 composer-aliases (0.1.0-1) bionic; urgency=medium
 
   * Initial release
