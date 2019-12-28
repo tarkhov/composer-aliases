@@ -38,11 +38,24 @@ sudo apt install composer-aliases
 Alias | Command
 ------- | -------
 `c` | `composer`
+`ccc` | `composer clear-cache`
+`ccp` | `composer create-project`
+`cd` | `composer depends`
+`cda` | `composer dump-autoload`
+`cg` | `composer global`
 `cgr` | `composer global require`
+`ch` | `composer help`
 `ci` | `composer install`
+`cod` | `composer outdated`
 `cr` | `composer require`
 `crd` | `composer require --dev`
+`crm` | `composer remove`
+`crmd` | `composer remove --dev`
+`crs` | `composer run-script`
+`cst` | `composer status`
+`cv` | `composer validate`
 `cu` | `composer update`
+`csu` | `composer self-update`
 
 ## Removing
 
