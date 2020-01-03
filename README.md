@@ -40,7 +40,7 @@ Alias | Command
 `c` | `composer`
 `ccc` | `composer clear-cache`
 `ccp` | `composer create-project`
-`cd` | `composer depends`
+`cdp` | `composer depends`
 `cda` | `composer dump-autoload`
 `cg` | `composer global`
 `cgr` | `composer global require`

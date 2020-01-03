@@ -2,7 +2,7 @@
 alias c='composer'
 alias ccc='composer clear-cache'
 alias ccp='composer create-project'
-alias cd='composer depends'
+alias cdp='composer depends'
 alias cda='composer dump-autoload'
 alias cg='composer global'
 alias cgr='composer global require'
